@@ -1,0 +1,6 @@
+Name of the customer: narendra,email address of the customer: narendra@gmail.com,phone number of the customer: 9874563214,Total Bill: 370,date and time: Wed Nov 23 12:40:55 2022
+Name of the customer: ravi,email address of the customer: ravi45@gmail.com,phone number of the customer: 4568791235,Total Bill: 10,date and time: Wed Nov 23 12:43:47 2022
+Name of the customer: vardhan,email address of the customer: vardhan47@gmail.com,phone number of the customer: 9876543210,Total Bill: 480,date and time: Wed Nov 23 12:54:33 2022
+Name of the customer: ravindra,email address of the customer: ravindra23@gmail.com,phone number of the customer: 9874561234,Total Bill: 135,date and time: Wed Nov 23 12:59:30 2022
+Name of the customer: naruto,email address of the customer: naruto98@gmail.com,phone number of the customer: 5846789123,Total Bill: 1000,date and time: Wed Nov 23 13:03:12 2022
+Name of the customer: sasuke,email address of the customer: sasuke234@gmail.com,phone number of the customer: 1234569871,Total Bill: 500,date and time: Wed Nov 23 13:04:43 2022
